@@ -1,0 +1,3 @@
+monolithic : when all the components run in a single container
+microservices : when each component runs in a separate container
+
